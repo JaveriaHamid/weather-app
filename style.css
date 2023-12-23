@@ -27,6 +27,7 @@ body{
     transition: height .6s ease;
     position: relative;
     overflow: hidden;
+    opacity: 0.88;
 }
 
 .header{
